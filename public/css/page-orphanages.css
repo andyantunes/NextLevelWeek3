@@ -46,6 +46,7 @@ a.create-orphanage {
   justify-content: center;
   align-items: center;
   transition: background-color 0.2s;
+  z-index: 400;
 }
 
 a.create-orphanage:hover {
